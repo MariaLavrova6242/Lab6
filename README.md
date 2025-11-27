@@ -19,6 +19,6 @@
 ![Блок схема алгоритма](6.drawio.png)
 ## 2. Реализация программы:
 ## 3. Результат работы программы
-<img  width=“250” src="" >
+<img  width=“250” src="https://github.com/MariaLavrova6242/Lab6/blob/master/Lab6.png" >
 ## 4. Информация о разработчике
 Лаврова Мария, бИПТ-252# Lab6

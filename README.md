@@ -18,6 +18,30 @@
 ### Блок схема
 ![Блок схема алгоритма](6.drawio.png)
 ## 2. Реализация программы:
+    #define _CRT_SECURE_NO_DEPRECATE
+    #include <stdio.h>
+    #include <locale.h>
+    
+    void main()
+    {
+    	setlocale(LC_ALL, "RUS");
+    	float x, y;
+    
+    	printf("Введите число x:");
+    	scanf("%f",&x);
+    
+    	printf("Введите число y:");
+    	scanf("%f", &y);
+    	if (x < y) { 
+    		printf("x < y"); 
+    	}
+    	else if (x > y) {
+    		printf("x > y");
+    	}
+    	else { printf("x = y"); 
+    	}
+    	return 0;
+    }
 ## 3. Результат работы программы
 <img  width=“250” src="https://github.com/MariaLavrova6242/Lab6/blob/master/Lab6.png" >
 ## 4. Информация о разработчике
